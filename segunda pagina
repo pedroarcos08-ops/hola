@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Horario Semanal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f6f9;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .contenedor {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            text-align: center;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+        }
+
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        td:hover {
+            background-color: #d1e7dd;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<div class="contenedor">
+    <h1>Horario Semanal</h1>
+    <table>
+        <tr>
+            <th>Hora</th>
+            <th>Lunes</th>
+            <th>Martes</th>
+            <th>Miércoles</th>
+            <th>Jueves</th>
+            <th>Viernes</th>
+        </tr>
+
+        <tr>
+            <td>8:00 - 9:00</td>
+            <td>Hª del Arte</td>
+            <td>Filosofía</td>
+            <td>Filosofía</td>
+            <td>Latín</td>
+            <td>Latín</td>
+        </tr>
+
+        <tr>
+            <td>9:00 - 10:00</td>
+            <td>TIC</td>
+            <td>Inglés</td>
+            <td>TIC</td>
+            <td>Griego</td>
+            <td>Griego</td>
+        </tr>
+
+        <tr>
+            <td>10:00 - 11:00</td>
+            <td>Lengua</td>
+            <td>Hª de España</td>
+            <td>Hª del arte</td>
+            <td>Educación Física</td>
+            <td>Griego</td>
+        </tr>
+
+        <tr>
+            <td>11:30 - 12:30</td>
+            <td>Hª de España</td>
+            <td>Hª del Arte</td>
+            <td>Griego</td>
+            <td>Hª del Arte</td>
+            <td>Lengua</td>
+        </tr>
+
+        <tr>
+            <td>12:30 - 13:30</td>
+            <td>Latín</td>
+            <td>Educación Física</td>
+            <td>Latín</td>
+            <td>Hª de España</td>
+            <td>Inglés</td>
+        </tr>
+
+        <tr>
+            <td>13:30 - 14:30</td>
+            <td>Griego</td>
+            <td>Lengua</td>
+            <td>Religión</td>
+            <td>Inglés</td>
+            <td>Filosofía</td>
+        </tr>
+    </table>
+</div>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Sitio Web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+
+        nav {
+            background-color: #f4f4f4;
+            padding: 15px;
+            border-radius: 8px;
+        }
+
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        nav ul li {
+            margin: 8px 0;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #2c3e50;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            color: #007BFF;
+        }
+
+        section {
+            margin-top: 60px;
+        }
+    </style>
+</head>
+<body>
+
+
+<br>
+
+<nav>
+
+    <ul>
+        <li><a href="file:///home/tic2/Escritorio/hola/index">Inicio</a></li>
+        <li><a href="file:///home/tic2/Escritorio/hola/segunda%20pagina">Horario</a></li>
+        <li><a href="file:///home/tic2/Escritorio/hola/tercera%20p%C3%A1gina">Nuestro futuro presidente</a></li>
+        <li><a href=https://don-pedroa.itch.io/torrente-simulador-de-citas>Web externa</a></li>
+    </ul>
+</nav>
+
+</body>
+</html>2026. Este sitio ha sido creado para clase de TIC

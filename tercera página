@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <img src="Karlos.jpg" alt="Fotografía del futuro presidente" style="max-width: 75%; height:auto; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1); margin-bottom:20px;">
+    <nav>
+    
+
+    <ul>
+        <li><a href="file:///home/tic2/Escritorio/hola/index">Inicio</a></li>
+        <li><a href="file:///home/tic2/Escritorio/hola/segunda%20pagina">Horario</a></li>
+        <li><a href="file:///home/tic2/Escritorio/hola/tercera%20p%C3%A1gina">Nuestro futuro presidente</a></li>
+        <li><a href=https://don-pedroa.itch.io/torrente-simulador-de-citas>Web externa</a></li>
+    </ul>
+</nav>
+
+</body>
+</html>2026. Este sitio ha sido creado para clase de TIC
+
+

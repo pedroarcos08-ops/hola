@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Hola</title>
+    <style>
+        body { font-family: Arial, Helvetica, sans-serif; background:#f5f5f5; margin:0; height:100vh; display:flex; align-items:center; justify-content:center; }
+        .card { background:#fff; padding:24px; border-radius:8px; box-shadow:0 6px 20px rgba(0,0,0,0.06); max-width:90%; text-align:center; }
+        h1 { margin:0 0 8px; font-size:1.6rem; }
+        p { margin:0; color:#333; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>Hola soy Pedro</h1>
+        <p>Este es mi sitio web personal.</p>
+    </div>
+<p>
+<nav>
+
+    <ul>
+        <li><a href="file:///home/tic2/Escritorio/hola/index">Inicio</a></li>
+        <li><a href="file:///home/tic2/Escritorio/hola/segunda%20pagina">Horario</a></li>
+        <li><a href="file:///home/tic2/Escritorio/hola/tercera%20p%C3%A1gina">Nuestro futuro presidente</a></li>
+        <li><a href=https://don-pedroa.itch.io/torrente-simulador-de-citas>Web externa</a></li>
+    </ul>
+</nav>
+
+</p>
+
+</body>
+</html>
